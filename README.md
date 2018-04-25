@@ -1,5 +1,6 @@
 # Fake News Challenge - News Stance Classification
 
+## Project Definition
 In context of news, a claim is made in a news headline, as well as in the piece of text in an article body. Quite often, the headline of a news article is created so that it is attractive to the readers, even though the body of the article may be about a different subject/may have another claim than the headline.
 
 Stance Detection involves estimating the relative perspective (or stance), of two pieces of text relative, i.e. do the two pieces agree, disagree, discuss or are unrelated to one another. Your task in this project is to estimate the stance of a body text from a news article relative to a headline.
